@@ -1,0 +1,33 @@
+    body {
+        margin: 0;
+    }
+
+    h1 {
+        color: rgb(128, 31, 128);
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+    p {
+        margin: 50px 8px;
+    }
+
+    .text1 {
+        background-color: green;
+        color: yellow;
+        font-size: 25px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    .text2 {
+        font-size: 15px;
+        background-color: black;
+        color: aquamarine;
+
+    }
+
+    div {
+        background-color: rgb(255, 255, 255);
+        box-shadow: -2px 2px 5px;
+        margin: 30px 100px;
+    }
